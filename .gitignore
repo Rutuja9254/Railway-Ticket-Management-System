@@ -1,0 +1,27 @@
+train_ticket_system/__pycache__/
+*.pyc
+
+*.env
+
+# Django migrations (optional)
+**/migrations/
+
+# Virtual environments
+env/
+venv/
+
+# IDE specific
+.idea/
+.vscode/
+
+# Log files
+*.log
+
+# Databases
+*.sqlite3
+
+# Media and static files
+media/
+staticfiles/
+
+
